@@ -1,0 +1,3 @@
+opcua[encryption]
+ipython
+ipdb
